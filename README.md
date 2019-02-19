@@ -10,7 +10,7 @@ A Smart File Organizer using Python
 - [Flags Explained](#flags-explained)
 
 # Introduction
-SweePy helps to organize the directories by moving files into folders based on their type. This application can be used as either a stand-alone python script that can be run with python runtime or a GUI-based version which is ready-to-run available.
+SweePy helps to organize the directories by moving files into folders based on their type. This application is written in Python3 and can be used as either a stand-alone python script that can be run with python runtime or a GUI-based version which is ready-to-run available.
 
 # Modules
 This application is very simple that it does not use any external libraries but python built-in library Tkinter for UI. 
