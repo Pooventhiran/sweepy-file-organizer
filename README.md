@@ -4,9 +4,10 @@ A Smart File Organizer using Python
 ## Contents
 - [Introduction](#introduction)
 - [Modules](#modules)
-- [Usage - Python Script](#usage-python-script)
-- [Usage - Gui-based Application](#usage-gui-based-application)
-- [Creating an Executable](#flags-explained)
+- [Usage - Python Script](#usage---python-script)
+- [Usage - GUI-based Application](#usage---gui-based-application)
+- [Creating an Executable](#creating-an-executable)
+- [Flags Explained](#flags-explained)
 
 # Introduction
 SweePy helps to organize the directories by moving files into folders based on their type. This application can be used as either a stand-alone python script that can be run with python runtime or a GUI-based version which is ready-to-run available.
