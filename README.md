@@ -49,7 +49,7 @@ To create an executable on your own, run the following command in the command pr
 The **spec** file corresponding to windows is uploaded to the repository. To use it, just run pyinstaller with the spec file instead of the python file.
  
  ### Flags explained
- - onefile: It is to create a one-file executable. Pyinstaller will create all libraries and required files separately if not specified.
- - windowed: It is to hide the console that usually appears on the background when the application is run.
+ - **onefile**: It is to create a one-file executable. Pyinstaller will create all libraries and required files separately if not specified.
+ - **windowed**: It is to hide the console that usually appears on the background when the application is run.
 
 
