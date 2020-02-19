@@ -40,7 +40,7 @@ Pyinstaller can be installed using **pip**.
 To create an executable on your own, run the following command in the command prompt.
 
   ```
-  pyinstaller --onefile --windowed app.py -n <namae-of-exe>
+  pyinstaller --onefile --windowed app.py -n <name-of-exe>
   ```
  
  This command also creates a spec file that can be used to configure the features which cannot be specified through the command line.
