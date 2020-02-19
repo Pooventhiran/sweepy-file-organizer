@@ -4,7 +4,7 @@ A Smart File Organizer using Python
 ## Contents
 - [Introduction](#introduction)
 - [Modules](#modules)
-- [Usage - Python Script](#usage---python-script)
+- [Setup](#setup)
 - [Usage - GUI-based Application](#usage---gui-based-application)
 - [Creating an Executable](#creating-an-executable)
 - [Flags Explained](#flags-explained)
@@ -15,7 +15,7 @@ SweePy helps to organize the directories by moving files into folders based on t
 # Modules
 This application is very simple that it does not use any external libraries but python built-in library Tkinter for UI. 
 
-# Usage - Python Script
+# Setup
 You can clone the repository from the git command line as
 
   ```shell
@@ -24,7 +24,7 @@ You can clone the repository from the git command line as
 If you have GitHub desktop, clone the repository from "File -> Clone Repository".
  
 # Usage - GUI-based Application
-The GUI application is available as **SweePy.exe** in the repository. Just download and open it to work with.
+The GUI application is available as **SweePy.exe** in the repository. Just open it to work with.
 
 ![sweepy](https://github.com/Pooventhiran/SweePy/blob/master/images/sweepy-main.PNG)
 
